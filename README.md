@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@Kiran P**
+- 👋 Hi, I’m **@Kiran Peddineni**
 - 👀 I’m interested in **AWS, GCP, Kubernetes, Docker, Terraform, Checkov, ArgoCD, Ansible, Git, Jenkins** etc.
 - 🌱 I’m currently learning **Python**.
 - 💞️ I’m looking to collaborate on **DevOps Projects**.
