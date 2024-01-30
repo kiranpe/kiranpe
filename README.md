@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@Kiran Peddineni**
-- 👀 I’m interested in **AWS, GCP, Terraform, Kubernetes, Docker, Helm, Checkov, Checkmarx, Trivy, GitOps, ArgoCD, Ansible, Gitlab, Git, Jenkins, SonarQube, EFK, Prometheus, Grafana** etc.
+- 👀 I’m interested in **AWS, GCP, Terraform, Kubernetes, Docker, Helm, Checkov, Checkmarx, Trivy, GitOps, ArgoCD, Ansible, Gitlab, Git, Jenkins, SonarQube, EFK, Prometheus, Grafana, Python, Shell Scripting** etc.
 - 🌱 I’m currently learning **Hashicorp Vault**.
 - 💞️ I’m looking to collaborate on **DevOps Projects**.
 - 📫 How to reach me **kirandevops14@gmail.com**
