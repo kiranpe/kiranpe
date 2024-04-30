@@ -1,7 +1,6 @@
 - 👋 Hi, I’m **@Kiran Peddineni**
-- 🌱 I’m currently learning **Hashicorp Vault**.
-- 💞️ I’m looking to collaborate on **DevOps Projects**.
-- 📫 How to reach me **kirandevops14@gmail.com**
+- 🌱 I’m currently learning **Hashicorp Vault, New Relic**.
+- 💞️ I’m looking to collaborate on **DevSecOps Projects**.
 
 **Techology Stack and Experience**
 
